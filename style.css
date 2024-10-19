@@ -1,7 +1,7 @@
 .roupas {
     padding: 1rem;
     display: flex;
-    gap: 3rem;
+    gap: 1rem;
     flex-wrap: wrap;
 }
 .roupa {
