@@ -16,6 +16,7 @@
     max-width: 20rem;
     max-height: 20rem;
 }
-h3 {
-
+div h3 { 
+    float:right; 
+    margin-top: 10px
 }
