@@ -1,5 +1,5 @@
 .roupas {
-    padding: 1rem;
+    padding: 2rem;
     display: flex;
     gap: 1rem;
     flex-wrap: wrap;
@@ -7,10 +7,11 @@
 .roupa {
     flex-grow: 1;
     flex-basis: calc(50% - 6rem);
-    height: 20rem;
+    height: 26rem;
     margin: 1rem;
+    text-align: center;
 }
 .img-roupa {
-    max-width: 10px;
-    max-height: 10px;
+    max-width: 20rem;
+    max-height: 20rem;
 }
