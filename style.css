@@ -10,11 +10,12 @@
     height: 26rem;
     margin: 1rem;
     text-align: center;
+    background-color: lightgrey
 }
 .img-roupa {
     max-width: 20rem;
     max-height: 20rem;
 }
 h3 {
-    
+
 }
