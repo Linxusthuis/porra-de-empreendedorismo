@@ -11,11 +11,11 @@
     height: 26rem;
     margin: 1rem;
     text-align: center;
-    background-color: lightgrey;
 }
 .img-roupa {
     width: 16rem;
     height: 16rem;
+    background-color: lightgrey;
 }
 h3 {
     font-size: 25px;
