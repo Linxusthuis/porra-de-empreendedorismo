@@ -32,10 +32,12 @@ html {
 h3 {
     font-size: 25px;
     margin: 20px;
+    text-decoration: underline;
 }
 .valor {
     color: var(--valor);
     font-weight: bold;
+    text-decoration: none;
 }
 .off {
     text-decoration: line-through;
