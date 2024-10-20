@@ -36,3 +36,6 @@ h3 {
 .valor {
     color: var(--valor);
 }
+.off {
+    text-decoration: line-through;
+}
