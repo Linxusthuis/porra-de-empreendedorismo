@@ -15,9 +15,12 @@ html {
 }
 .pesquisa {
     position: relative;
-    top: -119px;
-    left: 66rem;
+    top: -118px;
+    left: 8rem;
     width: 176px;
+}
+.pesquisar {
+    
 }
 .roupas {
     padding: 2rem;
