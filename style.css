@@ -8,6 +8,13 @@ html {
     background-color: var(--fundo);
 }
 .logo {
+    width: 10rem;
+    height: 10rem;
+    position: relative;
+    left: 71rem;
+    top: -3px;
+}
+.search-container {
     
 }
 .roupas {
