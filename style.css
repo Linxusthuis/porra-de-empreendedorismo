@@ -42,3 +42,7 @@ h3 {
 .off {
     text-decoration: line-through;
 }
+.highlight {
+    color: #ff6600;
+    font-weight: bold;
+}
