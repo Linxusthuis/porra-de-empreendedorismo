@@ -20,7 +20,8 @@ html {
     width: 176px;
 }
 .pesquisar {
-    
+    width: 13rem;
+    height: 19px;
 }
 .roupas {
     padding: 2rem;
@@ -83,7 +84,7 @@ h3 {
     text-align: center;
     padding: 16px;
     position: relative;
-    top: -77px;
+    top: -83px;
 }
 .footer {
     text-align: center;
