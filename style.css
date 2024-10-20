@@ -7,6 +7,9 @@
 html {
     background-color: var(--fundo);
 }
+.logo {
+    
+}
 .roupas {
     padding: 2rem;
     display: flex;
