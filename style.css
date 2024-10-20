@@ -17,7 +17,7 @@ html {
 .roupa {
     flex-grow: 1;
     flex-basis: calc(50% - 6rem);
-    height: 26rem;
+    height: 24rem;
     margin: 1rem;
     text-align: center;
     background-color: var(--roupa);
