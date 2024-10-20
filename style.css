@@ -19,9 +19,6 @@ html {
     left: 66rem;
     width: 176px;
 }
-.posic {
-    
-}
 .roupas {
     padding: 2rem;
     display: flex;
@@ -60,6 +57,12 @@ h3 {
     text-decoration: line-through;
 }
 .titulo {
+    font-size: 2rem;
+    text-align: center;
+    text-decoration: underline;
+    margin: 0rem;
+}
+.titulo1 {
     font-size: 2rem;
     text-align: center;
     text-decoration: underline;
