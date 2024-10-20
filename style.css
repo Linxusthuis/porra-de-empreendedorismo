@@ -38,4 +38,5 @@ h3 {
 }
 .off {
     text-decoration: line-through;
+    font-weight: bold;
 }
