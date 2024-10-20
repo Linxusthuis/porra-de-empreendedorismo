@@ -35,8 +35,8 @@ h3 {
 }
 .valor {
     color: var(--valor);
+    font-weight: bold;
 }
 .off {
     text-decoration: line-through;
-    font-weight: bold;
 }
