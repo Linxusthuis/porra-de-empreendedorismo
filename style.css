@@ -45,7 +45,10 @@ h3 {
     text-decoration: line-through;
 }
 .titulo {
-    
+    font-size: 2rem;
+    text-align: center;
+    text-decoration: underline;
+    margin: 0rem;
 }
 .highlight {
     color: #ff6600;
