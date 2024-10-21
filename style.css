@@ -23,14 +23,6 @@ html {
     width: 13rem;
     height: 19px;
 }
-.button {
-    position: relative;
-    font-size: 21px;
-    color: black;
-    text-decoration: none;
-    left: 24rem;
-    top: 3rem;
-}
 .roupas {
     padding: 2rem;
     display: flex;
